@@ -1,0 +1,8 @@
+{
+"hotels" :['thalapakatti','samco','saravanabavan']
+"restaurant":['seasonal tastes','tripura','monoco']
+"foods":['briyani','momos','shawarma','pizza','vegroll']
+"locations":['chennai','mumbai','bangalore','hyderabad']
+"branches":['madurai','coimbatore','salem','theni','tripur']
+"country":['India']
+}
